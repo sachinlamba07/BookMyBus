@@ -26,7 +26,7 @@ Java Development Kit (JDK) 8 or later
 Maven
 MySQL database
 Installation
-Clone the repository: git clone https://github.com/Anklet9/BookMyBus.git
+Clone the repository: git clone.
 Navigate to the project directory.
 Configure the MySQL database:
 Create a new MySQL database.
@@ -53,6 +53,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Contact
-If you have any questions or need support, please feel free to contact us at.[lamba2980@gmail.com]., [anklet.devil09@gmail.com].
+If you have any questions or need support, please feel free to contact us at.[lamba2980@gmail.com].
 
 Thank you for choosing Book My Bus! We wish you a pleasant journey! 🚌🌟
